@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+My name is Jonathan Long and I am a student at DePaul Catholic High School! I am currently taking AP computer science A and a mobile app development class.
 
 <!--
 **jhutchlong/jhutchlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
